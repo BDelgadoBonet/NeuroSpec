@@ -29,6 +29,11 @@ Development of NeuroSpec was supported in part by grants from the UK Joint Resea
 - NeuroSpec 2.11 Released Jul 2016.
 - NeuroSpec 2.2 Released Oct 2018.
 - Move to github Oct 2023.
+
+## Getting started
+
+`sp2_type0_demo1`: TYPE 0 analysis, analysis using disjoint sections.
+
 ### Contact
 david.halliday@york.ac.uk
 
