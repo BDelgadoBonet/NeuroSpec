@@ -1,5 +1,4 @@
-# NeuroSpec
-![Neurospec](https://github.com/dmhalliday/NeuroSpec/assets/54075134/4a5511d9-b482-490c-b237-172fb8d3aacb)
+<img src="https://github.com/dmhalliday/NeuroSpec/assets/54075134/4a5511d9-b482-490c-b237-172fb8d3aacb" alt="Neurospec" width="100%">
 
 NeuroSpec consists of a number of MATLAB functions for performing 
 multivariate Fourier analysis of time series and/or point process (spike 
